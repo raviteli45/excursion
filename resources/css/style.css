@@ -1,0 +1,21 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+.container{
+    height: 100%;
+    width: 100%;
+    right: 50%;
+    align-content: center;  
+    text-align: center;
+}
+.a1{
+    color: green;
+}
+h3{
+    color: rgb(118, 117, 117);
+}
+.p1{
+    margin-left: 80%;
+}
